@@ -1,3 +1,3 @@
-# Headline
+# About Amber Assets Management
 
-> An awesome project.
+> Amber Assets Management is an awesome project.
