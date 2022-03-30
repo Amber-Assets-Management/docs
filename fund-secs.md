@@ -1,0 +1,1 @@
+# Amber Assets Management Funds specification
