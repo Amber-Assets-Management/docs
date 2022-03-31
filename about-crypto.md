@@ -1,6 +1,6 @@
 # A few words about crypto
 
- > The motivation of running hedge funds in the crypto space lays out in a unique fusion of opportunities, convenience and security that cryptocurrencies provide. Before we dive into fund specification it’s worth mentioning what crypto is and why Ethereum plays an essential role here.
+ > The motivation for running hedge funds in the crypto space lays out in a unique fusion of opportunities, convenience and security that cryptocurrencies provide. Before we dive into fund specification it’s worth mentioning what crypto is and why Ethereum plays an essential role here.
 
 ## What is crypto?
 
@@ -13,19 +13,16 @@ More details about how cryptocurrency and blockchain works: https://www.ibm.com/
 
 ## What is Ethereum
 
-There are two most secured and time-verified cryptocurrencies: [Bitcoin](https://bitcoin.org/en/) and [Ethereum](https://ethereum.org/en/). While Bitcoin is the most secure and robust crypto, it perfectly designed only for transactions and as a value storage. Ethereum went feather and named itself as a decentralized computing platform.
+There are two most secured and time-verified cryptocurrencies: [Bitcoin](https://bitcoin.org/en/) and [Ethereum](https://ethereum.org/en/). While Bitcoin is the most secure and robust crypto, it's perfectly designed only for transactions and as a value storage. Ethereum went feather and named itself a decentralized computing platform.
 
-In etherium everyone can create special programs called [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/). When a user or other smart contract sends a transaction to another smart contract, every node on the ethereum network runs the contract’s code and records the output into the blockchain. It looks like a virtual user inserts a coin into a “vending machine” which runs in millions of computers at the same time and gives  something back to the user. 
-This lead us to the following advantages:
- * Anyone, anywhere, can launch applications that can’t be taken offline once it is deployed to Ethereum blockchain even by a developer who created it. 
+In Ethereum, everyone can create special programs called [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/). When a user or other smart contract sends a transaction to another smart contract, every node on the Ethereum network runs the contract’s code and records the output into the blockchain. It looks like a virtual user inserts a coin into a “vending machine” which runs on millions of computers at the same time and gives something back to the user. 
+This leads us to the following advantages:
+ * Anyone, anywhere, can launch applications that can’t be taken offline once it is deployed to the Ethereum blockchain even by a developer who created it. 
  * Users or other smart contracts can interact with smart contracts from anywhere. Only smart contract code decides who and how to interact with it. There are no external rules and policies. 
- * Users can be sure that the logic of smart contracts will not change. If developers create an update for their smart contract - they have to deploy a new one, while the old one still works well and will work until ethereum blockchain exists.
+ * Users can be sure that the logic of smart contracts will not change. If developers create an update for their smart contract - they have to deploy a new one, while the old one still works well and will work until the Ethereum blockchain exists.
 
-To read more about ethereum, feel free to check out this topic: https://academy.binance.com/en/articles/what-is-ethereum
-
----
-> Next topic: [What is a decentralized hedge fund?](what-is-de-fund.md)
+To read more about Ethereum, feel free to check out this topic: https://academy.binance.com/en/articles/what-is-ethereum
 
 ----
 
-*Amber Assets Management does not issue nor deals with any derivatives contract or ETNs. Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens. Amber Assets Management enables capital connection and managing using smart contracts which are open source. Amber Assets Management does not take custody of tokens and is only a collaborative hub for investors and managers. Amber Assets Management is not a licensed bank, broker-dealer, investment advisor or an exchange. Amber Assets Management uses partner protocols to power its own ecosystem. Before any investment decision, do your own research.*
+*Amber Assets Management does not issue nor deals with any derivatives contract or ETNs. Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens. Amber Assets Management enables capital connection and managing using smart contracts which are open source. Amber Assets Management does not take custody of tokens and is only a collaborative hub for investors and managers. Amber Assets Management is not a licensed bank, broker-dealer, investment advisor, or exchange. Amber Assets Management uses partner protocols to power its own ecosystem. Before any investment decision, do your own research.*

@@ -1,9 +1,4 @@
-# About Amber Assets Management
-
-![logo](_images/facebook_cover_photo_2.png)
-
-Amber Assets Management is a collaborative hub for investors and managers established in 2022 and focuses on creating and running decentralized hedge funds to provide superior risk-adjusted returns.
-The organisation has been founded by [Dzmitry Lahunouski](https://www.linkedin.com/in/dzmitry-lahunouski-152199104/)
+# Join US
 
 ----
 

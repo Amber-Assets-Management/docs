@@ -7,21 +7,21 @@
 
 ## Fund strategy & expected results
 
-Strategy based on few expectations and assumptions:
+Strategy based on a few expectations and assumptions:
 * Bitcoin network adoption.
 * Cryptocurrency market growth.
 * Intrinsic value of Bitcoin will continue to grow due to increasing bitcoin-related businesses and the Bitcoin name as a trademark.
-* Using leverage trading increasing risk disproportionately due to high volatility of Bitcoin
+* Using leverage trading increases risk disproportionately due to the high volatility of Bitcoin
 
-Taking into account these assumptions it looks rationally to develop a strategy to increase (accumulate) Bitcoin using short-term market inefficiency and volatility. The main purpose of this fund is to outperform the simple BTC buy & hold strategy in the long-term. The strategy of the fund utilizes a non-leveraged weighted rebalancing approach.
+Taking into account these assumptions it looks rationally to develop a strategy to increase (accumulate) Bitcoin using short-term market inefficiency and volatility. The main purpose of this fund is to outperform the simple BTC buy & hold strategy in the long term. The strategy of the fund utilizes a non-leveraged weighted rebalancing approach.
 - DeFi used for assets swap: [uniswap.org](https://uniswap.org/)
-- Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on main chain)
+- Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on the main chain)
 - Platform: [dhedge.org](https://www.dhedge.org/)
 - Amber Hedge Fund Directional pool info: [app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7](https://app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7)
 
 Expected returns: Bitcoin APY + ~20% (including management fee)  
-Expected asset max downfall: ~15% less than BTC downfall. Bitcoin can reach almost 90% downfall from ATH during bear markets.  
-Recommended asset allocation period - 2 years.  
+Expected asset max downfall: ~15% less than BTC downfall. Bitcoin can reach an almos downfall from ATH during bear markets.  
+Recommended asset allocation period: 2 years.  
 Allowed investment assets: WBTC, DAI.
 
 ## Fund fees & policies
@@ -35,10 +35,10 @@ Allowed investment assets: WBTC, DAI.
 |50,000 -  100,000     |10%               |
 |> 100,000             |5%                |
 
-2. There is no entry, exit and other management fee to stimulate clients to hold assets for a long term.  
+2. There are no entry, exit and other management fees to stimulate clients to hold assets for the long term.    
 3. Assets are forbidden to withdraw within 24 hours after seeding for flash loans and arbitrage protection.  
 4. After withdrawing all funds from the pool, users have to go through the investment application process one more time.  
-5. Asset managers keep rights to disallow any investment without providing a comprehensive explanation.  
+5. Asset managers keep the right to disallow any investment without explaining.  
 6. Invested assets withdrawal is guaranteed by the dHedge smart contract and cannot be blocked by the asset manager.
 
 ## Fund improvements
@@ -48,4 +48,4 @@ Under investigation:
 
 ----
 
-*Amber Assets Management does not issue nor deals with any derivatives contract or ETNs. Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens. Amber Assets Management enables capital connection and managing using smart contracts which are open source. Amber Assets Management does not take custody of tokens and is only a collaborative hub for investors and managers. Amber Assets Management is not a licensed bank, broker-dealer, investment advisor or an exchange. Amber Assets Management uses partner protocols to power its own ecosystem. Before any investment decision, do your own research.*
+*Amber Assets Management does not issue nor deals with any derivatives contract or ETNs. Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens. Amber Assets Management enables capital connection and managing using smart contracts which are open source. Amber Assets Management does not take custody of tokens and is only a collaborative hub for investors and managers. Amber Assets Management is not a licensed bank, broker-dealer, investment advisor, or exchange. Amber Assets Management uses partner protocols to power its own ecosystem. Before any investment decision, do your own research.*
