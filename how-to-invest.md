@@ -6,7 +6,7 @@ Recommended minimal investment holding term: **2 years.**
 
 > In order to manage your personal investment you'll need a personal wallet. We highly recommend using [cold wallets](https://en.bitcoin.it/wiki/Hardware_wallet). For instance you can buy one from [ledger](https://www.ledger.com/) or [trezor](https://trezor.io/).
 
-> To Apply for investment fill in the simple [application form](https://forms.gle/cXsz3or9TMEFesM79). Once you’ve approved you’ll receive a confirmation email and your personal manager will guide you throw all the necessary steps.
+> To Apply for investment fill in the simple **[Application Form](https://forms.gle/cXsz3or9TMEFesM79)**. Once you’ve approved you’ll receive a confirmation email and your personal manager will guide you throw all the necessary steps.
 
 !> To withdraw your funds you’ll have to send a transaction to the dHedge smart contract, please keep a tiny amount of ETH in your wallet in order to do this.
 
