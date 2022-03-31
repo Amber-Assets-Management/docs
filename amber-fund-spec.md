@@ -1,1 +1,0 @@
-# Amber Hedge Fund Directional Specification
