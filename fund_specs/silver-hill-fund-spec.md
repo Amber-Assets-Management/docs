@@ -1,5 +1,7 @@
 # Silver Hill Directional Fund Specification
 
+Fund page on dHedge with statistic: - [app.dhedge.org/pool/0x35f8a62da489b43466196329abf9c934bf6f1ff3](https://app.dhedge.org/pool/0x35f8a62da489b43466196329abf9c934bf6f1ff3)
+
 ## Fund assets under management
 
 1. [WETH](https://weth.io/) - wrapped ethereum token to be able to have exposure on [Ethereum](https://ethereum.org/en/) in the in the [Optimistic rollup](https://www.optimism.io/) ([Ethereum L2 solution](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)).  
@@ -17,7 +19,6 @@ Taking into account these assumptions it looks rationally to develop a strategy 
 - DeFi used for assets swap: [uniswap.org](https://uniswap.org/)
 - Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on the main chain)
 - Platform: [dhedge.org](https://www.dhedge.org/)
-- Amber Hedge Fund Directional pool info: [app.dhedge.org/pool/0x35f8a62da489b43466196329abf9c934bf6f1ff3](https://app.dhedge.org/pool/0x35f8a62da489b43466196329abf9c934bf6f1ff3)
 
 Expected returns: Ethereum APY + ~30% (including management fee)
 Expected asset max downfall: ~15% less than ETH downfall. Ethereum can reach an almost 90% downfall from ATH during bear markets. 

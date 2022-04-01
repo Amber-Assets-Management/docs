@@ -1,5 +1,7 @@
 # Amber Hedge Fund Directional Specification
 
+Fund page on dHedge with statistic: - [app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7](https://app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7)
+
 ## Fund assets under management
 
 1. [WBTC](https://wbtc.network/) - wrapped bitcoin token to be able to have exposure on [Bitcoin](https://bitcoin.org/en/) in the [Optimistic rollup](https://www.optimism.io/) ([Ethereum L2 solution](https://ethereum.org/en/developers/docs/scaling/optimistic-rollups/)).  
@@ -17,7 +19,6 @@ Taking into account these assumptions it looks rationally to develop a strategy 
 - DeFi used for assets swap: [uniswap.org](https://uniswap.org/)
 - Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on the main chain)
 - Platform: [dhedge.org](https://www.dhedge.org/)
-- Amber Hedge Fund Directional pool info: [app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7](https://app.dhedge.org/pool/0xcfd380c467da78c1bd03cc63ceb9686081cc59d7)
 
 Expected returns: Bitcoin APY + ~20% (including management fee)  
 Expected asset max downfall: ~15% less than BTC downfall. Bitcoin can reach an almos downfall from ATH during bear markets.  
