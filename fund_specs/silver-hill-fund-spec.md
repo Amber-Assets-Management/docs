@@ -17,13 +17,13 @@ Strategy based on few expectations and assumptions:
 
 Taking into account these assumptions it looks rationally to develop a strategy to increase (accumulate) Ethereum using short-term market inefficiency and volatility. The main purpose of this fund is to outperform the simple ETH buy & stake (ETH 2.0) strategy. The strategy of the fund utilizes a non-leveraged weighted rebalancing approach.
 - DeFi used for assets swap: [uniswap.org](https://uniswap.org/)
-- Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on the main chain)
+- Protocol: [Optimism](https://www.optimism.io/). If you're interested in what is L2 solution, feel free to check [this awesome short video](https://www.youtube.com/watch?v=BgCgauWVTs0)
 - Platform: [dhedge.org](https://www.dhedge.org/)
 
 Expected returns: Ethereum APY + ~30% (including management fee)
 Expected asset max downfall: ~15% less than ETH downfall. Ethereum can reach an almost 90% downfall from ATH during bear markets. 
 Recommended asset allocation period - 2 years.  
-Allowed investment assets: WETH, USDC. 
+Allowed investment assets: USDC. 
 
 ## Fund fees & policies
 

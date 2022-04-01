@@ -17,7 +17,7 @@ Strategy based on a few expectations and assumptions:
 
 Taking into account these assumptions it looks rationally to develop a strategy to increase (accumulate) Bitcoin using short-term market inefficiency and volatility. The main purpose of this fund is to outperform the simple BTC buy & hold strategy in the long term. The strategy of the fund utilizes a non-leveraged weighted rebalancing approach.
 - DeFi used for assets swap: [uniswap.org](https://uniswap.org/)
-- Protocol: [Optimistic rollup](https://www.optimism.io/) (significantly lower fees than on the main chain)
+- Protocol: [Optimism](https://www.optimism.io/). If you're interested in what is L2 solution, feel free to check [this awesome short video](https://www.youtube.com/watch?v=BgCgauWVTs0)
 - Platform: [dhedge.org](https://www.dhedge.org/)
 
 Expected returns: Bitcoin APY + ~20% (including management fee)  

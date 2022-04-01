@@ -32,7 +32,7 @@ Requirements for asset risk level to be able to use them within Amber Asset Mana
 ## Platfroms & protocols risk disclosure
 
 Resourses used to risk assesment:
-1. [Optimistic rollup](https://www.optimism.io/):
+1. Optimistic rollup - [Optimism network](https://www.optimism.io/):
     * [openzeppelin optimism smart contract audit](https://blog.openzeppelin.com/optimism-smart-contracts-audit/)
     * [l2beat tech check](https://l2beat.com/projects/optimism/)
 2. [dHedge](https://www.dhedge.org/) platform: 
@@ -46,11 +46,11 @@ Resourses used to risk assesment:
 
 |resourse         |technology risk|counterparty risk|liquidity & market risk|
 |:---             |:---:          |:---:             |:---:                  |
-|Optimistic rollup|**B+**         |**C**             |**B**                  |
+|Optimism network |**B+**         |**C**             |**B**                  |
 |dHedge           |**B+**         |**B**             |**B**                  |
 |Uniswap          |**A-**         |**B**             |**B**                  |
 
-!> Uniswap liquidity & market risk was estimated in Optimism rollup
+!> Uniswap liquidity & market risk was estimated in Optimism network
 
 ## Assets risk disclosure
 
